@@ -6,7 +6,7 @@ import Game from './game';
 import { createSkyBox } from "./utils";
 
 const ROOM_NAME = "my_room";
-const ENDPOINT = "ws://localhost:2567";
+const ENDPOINT = "ws://economic-unleashed-citrine.glitch.me";
 // const ENDPOINT = "wss://tutorial-babylonjs-server.glitch.me";
 
 export default class Menu {
